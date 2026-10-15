@@ -1,6 +1,6 @@
-# BtaSBML2986
+# BtaSBML2964
 
-Scripts for the reconstruction and analysis of **BtaSBML2986**, the first genome-scale metabolic model (GEM) of *Bos taurus*, comprising 2,986 genes, 13,278 reactions, and 8,652 metabolites. The model was reconstructed using [Human1](https://github.com/SysBioChalmers/Human-GEM) as a template and integrated with multi-omics data from Hanwoo (*B. taurus coreanae*) muscle satellite cells (MuSCs) for cultured meat applications.
+Scripts for the reconstruction and analysis of **BtaSBML2964**, the first genome-scale metabolic model (GEM) of *Bos taurus*, comprising 2,964 genes, 13,278 reactions, and 8,652 metabolites. The model was reconstructed using [Human1](https://github.com/SysBioChalmers/Human-GEM) as a template and integrated with multi-omics data from Hanwoo (*B. taurus coreanae*) muscle satellite cells (MuSCs) for cultured meat applications.
 
 This repository accompanies the manuscript *"Genome-scale metabolic reconstruction of Bos taurus and multi-omics analysis of Hanwoo muscle satellite cells to advance cultured meat production."*
 
@@ -9,7 +9,7 @@ This repository accompanies the manuscript *"Genome-scale metabolic reconstructi
 ```bash
 # 1. Clone the repository
 git clone https://github.com/kaist-sbml/BtaSBML2986.git
-cd BtaSBML2986
+cd BtaSBML2964
 
 # 2. Create the environment and install dependencies
 conda create -n cobra python=3.8
