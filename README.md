@@ -8,7 +8,7 @@ This repository accompanies the manuscript *"Genome-scale metabolic reconstructi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kaist-sbml/BtaSBML2986.git
+git clone https://github.com/kaist-sbml/BtaSBML2964.git
 cd BtaSBML2964
 
 # 2. Create the environment and install dependencies
